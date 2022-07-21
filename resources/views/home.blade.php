@@ -17,6 +17,7 @@
                     {{ __('You are logged in!') }}
                 </div>
             </div>
+            <a class="btn btn-success" href="{{route('admin')}}">GO TO ADMIN AREA!</a>
         </div>
     </div>
 </div>
